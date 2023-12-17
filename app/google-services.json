@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "51731334728",
-    "firebase_url": "https://phar-fa43f-default-rtdb.firebaseio.com",
-    "project_id": "phar-fa43f",
-    "storage_bucket": "phar-fa43f.appspot.com"
+    "project_number": "",
+    "firebase_url": "https://phar---..",
+    "project_id": "phar-",
+    "storage_bucket": "-.."
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:51731334728:android:51cb31e9cd756b85a97a7d",
+        "mobilesdk_app_id": "1:::",
         "android_client_info": {
           "package_name": "com.example.apteka"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBPhh2ZH6zQapa9KrRQUg-DJ1DBfWxsQ8o"
+          "current_key": "-"
         }
       ],
       "services": {
@@ -27,7 +27,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:51731334728:android:e65aa56c62d82eb2a97a7d",
+        "mobilesdk_app_id": "1:::",
         "android_client_info": {
           "package_name": "com.example.pharmacya"
         }
@@ -35,7 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBPhh2ZH6zQapa9KrRQUg-DJ1DBfWxsQ8o"
+          "current_key": "-"
         }
       ],
       "services": {
