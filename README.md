@@ -1,6 +1,6 @@
 1. Настрой правильно коллекции
 2. Ошибок не должно быть не в каком типе например number от string
-3. У тебя все фото должны храиться в Storage
+3. У тебя все фото должны храниться в Storage
 
 ![image](https://github.com/SNS1SNS/pharmacyA/assets/134806076/e5027d12-5fc5-43eb-8ef4-823e9e556a8c)Для того чтобы все работало правильно у тебя должен быть правильно настроен Firebase
 ![image](https://github.com/SNS1SNS/pharmacyA/assets/134806076/37e09fd2-bbf4-4ec1-a5e9-dffd4a757e0a)
