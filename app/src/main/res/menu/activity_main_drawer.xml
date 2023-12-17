@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/baseline_perm_identity_24"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/baseline_category_24"
+            android:title="@string/category" />
+<!--        <item-->
+<!--            android:id="@+id/nav_offers"-->
+<!--            android:icon="@drawable/baseline_local_offer_24"-->
+<!--            android:title="@string/offers" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_new_product"-->
+<!--            android:icon="@drawable/baseline_autorenew_24"-->
+<!--            android:title="@string/new_product" />-->
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@drawable/baseline_shopping_cart_24"
+            android:title="@string/my_orders" />
+        <item
+            android:id="@+id/nav_my_carts"
+            android:icon="@drawable/baseline_add_shopping_cart_24"
+            android:title="@string/my_carts" />
+
+    </group>
+</menu>
